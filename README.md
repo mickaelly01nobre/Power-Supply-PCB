@@ -51,7 +51,7 @@ This PCB receives a 12V input and distributes two regulated output voltages: 5V 
 
 ## PCB Layout
 
-
+![Image](https://github.com/user-attachments/assets/0fd7d93d-bbe7-4985-8320-807ad15806c1)
 
 ## Assembly Instructions
 
