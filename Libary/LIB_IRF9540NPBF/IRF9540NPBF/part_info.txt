@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=IRF9540NPBF
+PartCategory=MOSFET (P-Channel)
+PackageCategory=Transistor Outline, Vertical
+PinCount=3
+Version=3.1
+Released=2017-11-01 14:14:13
+Downloaded=2025-01-04 01:44:23
+3D=Y

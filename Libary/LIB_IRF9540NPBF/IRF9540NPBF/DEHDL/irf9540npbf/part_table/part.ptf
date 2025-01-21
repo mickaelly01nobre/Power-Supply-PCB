@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IRF9540NPBF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "IRF9540NPBF" (!) = "", "TO254P469X1042X1967-3P", "Transistor Outline, Vertical", "942-IRF9540NPBF", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRF9540NPBF?qs=9%252BKlkBgLFf0vnuA8mxUPtw%3D%3D", "Infineon IRF9540NPBF P-channel MOSFET, 23 A, 100 V HEXFET, 3-Pin TO-220AB", "https://www.infineon.com/dgdl/irf9540npbf.pdf?fileId=5546d462533600a401535611cfa21dc8", "4.69 mm"
+END_PART
+
+END.
